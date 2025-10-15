@@ -1,0 +1,7 @@
+/**
+    * 引入 Tailwind CSS 的核心样式文件，启用 Tailwind 提供的工具类样式。
+    * 这样可以在项目中使用 Tailwind CSS 的各种实用工具类来快速构建响应式和现代化的用户界面。
+    * 可以直接使用 Tailwind 的原子化类名，如 bg-blue-500、text-center 等。
+    */
+
+@import "tailwindcss";
